@@ -1,0 +1,11 @@
+a) A lógica é adicionar 2 a cada número ímpar. Então, o próximo número é 9.
+
+b) A lógica é multiplicar cada número por 2. Portanto, o próximo número é 128.
+
+c) A lógica é adicionar os números ímpares consecutivos a partir de 1 ao número anterior. Logo, o próximo número é 49.
+
+d) A lógica é elevar ao quadrado os números pares consecutivos. Então, o próximo número é 100.
+
+e) A lógica é somar os dois números anteriores para obter o próximo número. Por isso, o próximo número é 13.
+
+f) A lógica é continuar a sequência com os números que começam com a letra "D" ou seja o próximo número é 200.

@@ -1,0 +1,35 @@
+Considerando a distância de 100km entre Ribeirão Preto e Franca, com dois pedágios como obstáculos, e levando em conta que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar), podemos calcular o tempo total de viagem e a distância percorrida por cada veículo da seguinte forma:
+
+1. Tempo total de viagem:
+
+O tempo que o carro levará para percorrer a distância de 100km será de:
+
+tempo carro = distância / velocidade_carro
+tempo carro = 100km / 110 km/h
+tempo carro = 0,909 horas
+
+Já o caminhão levará um tempo maior para percorrer a mesma distância, pois leva 5 minutos a mais em cada um dos pedágios. Portanto, o tempo total de viagem do caminhão será de:
+
+tempo caminhão = distância / velocidade_caminhão + tempo_extra
+tempo caminhão = 100km / 80 km/h + (2 x 5 minutos)
+tempo caminhão = 1,25 horas
+
+
+
+2. Distância percorrida por cada veículo:
+
+distância = velocidade x tempo
+
+Para o carro, a distância percorrida será de:
+
+distância carro = velocidade_carro x tempo_carro
+distância carro = 110 km/h x 0,909 horas
+distância carro = 100 km
+
+Já para o caminhão a distância percorrida será de:
+
+distância caminhão = velocidade_caminhão x tempo_caminhão
+distância caminhão = 80 km/h x 1,25 horas
+distância caminhão = 100 km
+
+Então, os dois veículos percorrerão a mesma distância, mas, o caminhão levará mais tempo para completar o trajeto, devido aos pedágios e a velocidade menor em relação ao carro.

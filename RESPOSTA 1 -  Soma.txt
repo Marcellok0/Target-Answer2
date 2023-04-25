@@ -1,0 +1,7 @@
+No início, a variável K é inicializada como 0 e a variável SOMA é inicializada como 0.
+Então, o laço de repetição começa a executar e a variável K é incrementada em 1 a cada iteração.
+A variável SOMA é atualizada a cada iteração, adicionando o valor de K a soma atual.
+O laço continuará a executar até que K seja igual a 13.
+
+No final do laço de repetição, a variável SOMA terá sido incrementada 13 vezes, com os valores 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 e 13, que somados resultam em 91.
+Por isso, o valor de SOMA impresso será 91.
